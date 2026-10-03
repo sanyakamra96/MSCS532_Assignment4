@@ -1,0 +1,28 @@
+distribution,size,algorithm,average_seconds
+random,1000,Heapsort,0.0009403333315276541
+random,1000,Randomized Quicksort,0.000731361004000064
+random,1000,Merge Sort,0.0007380689979375651
+random,5000,Heapsort,0.005327763666476433
+random,5000,Randomized Quicksort,0.003507763668797755
+random,5000,Merge Sort,0.0036875416675078063
+random,10000,Heapsort,0.009595722333566906
+random,10000,Randomized Quicksort,0.006506708331774765
+random,10000,Merge Sort,0.007301208337594289
+sorted,1000,Heapsort,0.0007204859963773439
+sorted,1000,Randomized Quicksort,0.00046987500293956447
+sorted,1000,Merge Sort,0.0004217776659061201
+sorted,5000,Heapsort,0.004468889334627117
+sorted,5000,Randomized Quicksort,0.002611430667457171
+sorted,5000,Merge Sort,0.0022500556660816073
+sorted,10000,Heapsort,0.009742041668990472
+sorted,10000,Randomized Quicksort,0.005549319665684986
+sorted,10000,Merge Sort,0.004832819664443377
+reverse-sorted,1000,Heapsort,0.0006283333326185433
+reverse-sorted,1000,Randomized Quicksort,0.00048459700095312047
+reverse-sorted,1000,Merge Sort,0.000432888666788737
+reverse-sorted,5000,Heapsort,0.003915388668247033
+reverse-sorted,5000,Randomized Quicksort,0.0027296806656522676
+reverse-sorted,5000,Merge Sort,0.002384194332989864
+reverse-sorted,10000,Heapsort,0.008859666333592031
+reverse-sorted,10000,Randomized Quicksort,0.005832111331983469
+reverse-sorted,10000,Merge Sort,0.005056902669214954
